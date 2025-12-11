@@ -1,6 +1,6 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Olá 👋 Sou a Cristiane Oliveira</h1>
 
-###
+Programadora Informática (CENCAL) com conhecimentos em Python, Java, SQL, APIs REST, Github, a aprender C# e IA Generativa.
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
